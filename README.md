@@ -48,12 +48,13 @@ The challenge requirements seem vague, am I missing something?
 # Running My App (README.md)
 App requires node package manager (npm).
 To run my app go to the terminal and enter:
+
 `npm install`
 `npm run start`
 
 #Delete Table Data
 The persistent table data is being stored in local storage and there is no delete button at this stage. So, to reset the data, open the browser console and enter:
+
 `localStorage.removeItem('savedTableData')`
---- Insert your readme here ---
 
 
