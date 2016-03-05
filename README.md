@@ -50,6 +50,7 @@ App requires node package manager (npm).
 To run my app go to the terminal and enter:
 
 `npm install`
+
 `npm run start`
 
 #Delete Table Data
